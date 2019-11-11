@@ -1,5 +1,5 @@
 export default `
-# Microsoft hiring Position
+# Microsoft Openings
  ***Last update 2019.11.11***
  
  This is Wenjing Zhang from Microsoft recruiting team, and here is my Github pages.  
@@ -26,7 +26,19 @@ export default `
 ## Taipei
 
 
-## Shanghai
-## Beijing
+## Shanghai  
 
+
+
+## Beijing  
+  
+1. Software engineer  
+  
+  software engineer----Microsoft AI framework team, develop deep learning runtime system, C/C++ [Job Link](https://careers.microsoft.com/us/en/job/728512/Senior-Software-Engineer)
+  
+
+## Shenzhen
+1. Hardware engineer  
+
+  Sr. Technical Operation Engineer-Factory Management----PSU or cable connector related [Job Link](https://careers.microsoft.com/us/en/job/700303/Sr-Technical-Operation-Engineer-Factory-Management)
 `;
