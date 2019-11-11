@@ -6,19 +6,23 @@ export default `
  If you are interested in any of these positions and you can contact me via [Linkedin](https://www.linkedin.com/in/wenjing-zhang-154221163/)/Email:a-wezhan@microsoft.com/ Wechat:13182615468
 
 ## Suzhou 
-1. Software engineer  
+1. Software engineer    
 
-  We are hiring **UX dev** for __[Bing Ads](http://www.baidu.com)__ team!
+
+  
 2. Hardware engineer  
     
   Senior Factory Management Manufacturing Engineer-Mechanical  
+
+  Senior Factory Management Engineering-Polymer [Job link]()
   
   Senior enclosure development engineer  [Job link](https://careers.microsoft.com/us/en/job/677518/SENIOR-ENCLOSURE-DEVELOPMENT-ENGINEER)
-   senior
+  
+  Senior Software Development Engineer----develop Automation platform   [Job link](https://careers.microsoft.com/us/en/job/733317/Senior-Software-Development-Engineer)
 
+  Senior Software Development Engineer-Dispaly----Debug or develop for Display software related. [Job Link](https://careers.microsoft.com/us/en/job/733365/Senior-Software-Development-Engineer-Display)
+ 
 
-  [http://www.baidu.com](http://www.baidu.com)
-* kkkk
 ## Taipei
 
 
