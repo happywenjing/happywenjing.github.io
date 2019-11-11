@@ -3,7 +3,7 @@ export default `
  ***Last update 2019.11.11***
  
  This is Wenjing Zhang from Microsoft recruiting team, and here is my Github pages.  
- If you are interested in any of these positions and you can contact me via [Linkedin](https://www.linkedin.com/in/wenjing-zhang-154221163/)/Email:a-wezhan@microsoft.com/ Wechat:13182615468
+ If you are interested in any of these positions, you can contact me via [Linkedin](https://www.linkedin.com/in/wenjing-zhang-154221163/)/Email:a-wezhan@microsoft.com/ Wechat:13182615468
 
 ## Suzhou 
 1. Software engineer    
