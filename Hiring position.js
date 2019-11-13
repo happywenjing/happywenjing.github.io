@@ -22,6 +22,7 @@ export default `
 
   Senior Software Development Engineer-Dispaly----Debug or develop for Display software related. [Job Link](https://careers.microsoft.com/us/en/job/733365/Senior-Software-Development-Engineer-Display)
  
+  Senior Software Development Engineer-RF---- Software/Firmware Radio Frequency (RF) team [Job Link](https://careers.microsoft.com/us/en/job/723072/SDE-2-RF)
 
 ## Taipei
 
