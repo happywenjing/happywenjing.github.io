@@ -30,7 +30,10 @@ export default `
 ## Taipei
 1. Hardware engineer
   
-  Firmware development Engineer-Cloud Sever Infrastructure-----BIOS/UEFI/BMC(Baseboard management Controller) develop experiences [Job link](https://careers.microsoft.com/us/en/job/714891/Firmware-Development-Engineer-Growth-Mindset-CSI-Azure-Cloud-Server-Infrastructure-AzureHardware)
+  Firmware development Engineer-Cloud Sever Infrastructure-----BIOS/UEFI/BMC(Baseboard management Controller) develop experiences [Job link](https://careers.microsoft.com/us/en/job/714891/Firmware-Development-Engineer-Growth-Mindset-CSI-Azure-Cloud-Server-Infrastructure-AzureHardware)  
+  
+  Senior Hardware Engineer-Cloud Server----Server or Sever rack related debug or trouble shooting experiences.[Job link](https://careers.microsoft.com/us/en/job/742553/Senior-Hardware-Engineer-Cloud-Server)  
+
 
 
 ## Shanghai  
