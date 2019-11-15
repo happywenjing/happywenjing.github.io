@@ -1,7 +1,7 @@
 export default `
 ![Microsoft](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31)
 # Microsoft Openings
- ***Last update 2019.11.13***
+ ***Last update 2019.11.15***
  
  This is Wenjing Zhang from Microsoft recruiting team, and here is my Github pages.  
  If you are interested in any of these positions, you can contact me via [Linkedin](https://www.linkedin.com/in/wenjing-zhang-154221163/)/Email:a-wezhan@microsoft.com/ Wechat:13182615468
@@ -13,9 +13,9 @@ export default `
   
 2. Hardware engineer  
     
-  Senior Factory Management Manufacturing Engineer-Mechanical  
+  Senior Factory Management Manufacturing Engineer-Mechanical [Job Link] (https://careers.microsoft.com/us/en/job/737244/Senior-Factory-Management-Manufacturing-Engineer) 
 
-  Senior Factory Management Engineering-Polymer [Job link]()
+  Senior Factory Management Engineering-Polymer [Job link](https://careers.microsoft.com/us/en/job/739684/Manager-Factory-Management-Engineering)
   
   Senior enclosure development engineer  [Job link](https://careers.microsoft.com/us/en/job/677518/SENIOR-ENCLOSURE-DEVELOPMENT-ENGINEER)
   
@@ -33,6 +33,8 @@ export default `
   Firmware development Engineer-Cloud Sever Infrastructure-----BIOS/UEFI/BMC(Baseboard management Controller) develop experiences [Job link](https://careers.microsoft.com/us/en/job/714891/Firmware-Development-Engineer-Growth-Mindset-CSI-Azure-Cloud-Server-Infrastructure-AzureHardware)  
   
   Senior Hardware Engineer-Cloud Server----Server or Sever rack related debug or trouble shooting experiences.[Job link](https://careers.microsoft.com/us/en/job/742553/Senior-Hardware-Engineer-Cloud-Server)  
+  
+  Senior Operations Program Manager----
 
 
 
