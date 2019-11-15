@@ -17,6 +17,8 @@ export default `
 
   Senior Factory Management Engineering-Polymer [Job link](https://careers.microsoft.com/us/en/job/739684/Manager-Factory-Management-Engineering)
   
+  Senior Operations Program Manager----Manufacturing Test program experiences[Job Link](https://careers.microsoft.com/us/en/job/737552/Sr-Operations-Program-Manager)
+
   Senior enclosure development engineer  [Job link](https://careers.microsoft.com/us/en/job/677518/SENIOR-ENCLOSURE-DEVELOPMENT-ENGINEER)
   
   Senior Software Development Engineer----develop Automation platform   [Job link](https://careers.microsoft.com/us/en/job/733317/Senior-Software-Development-Engineer)
@@ -34,7 +36,7 @@ export default `
   
   Senior Hardware Engineer-Cloud Server----Server or Sever rack related debug or trouble shooting experiences.[Job link](https://careers.microsoft.com/us/en/job/742553/Senior-Hardware-Engineer-Cloud-Server)  
   
-  Senior Operations Program Manager----
+  
 
 
 
