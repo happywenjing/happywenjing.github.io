@@ -1,7 +1,7 @@
 export default `
 ![Microsoft](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31)
 # Microsoft Openings
- ***Last update 2019.11.25***
+ ***Last update 2019.11.26***
  
  This is Wenjing Zhang from Microsoft recruiting team, and here is my Github pages.  
  If you are interested in any of these positions, you can contact me via [Linkedin](https://www.linkedin.com/in/wenjing-zhang-154221163/)/Email:a-wezhan@microsoft.com/ Wechat:13182615468
@@ -43,20 +43,6 @@ export default `
 
   Information Protection, Anti-spam and security features for the enterprise-level service known as Exchange Online Protection (EOP) ,2 years+ working experience.[Job Link](https://careers.microsoft.com/us/en/job/724261/Software-Engineer)  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
   
 2. Hardware engineer  
     
@@ -79,9 +65,13 @@ export default `
 ## Taipei
 1. Hardware engineer
   
-  Firmware development Engineer-Cloud Sever Infrastructure-----BIOS/UEFI/BMC(Baseboard management Controller) develop experiences [Job link](https://careers.microsoft.com/us/en/job/714891/Firmware-Development-Engineer-Growth-Mindset-CSI-Azure-Cloud-Server-Infrastructure-AzureHardware)  
+  Firmware development Engineer-Cloud Sever Infrastructure-----BIOS/UEFI develop experiences [Job link](https://careers.microsoft.com/us/en/job/714891/Firmware-Development-Engineer-Growth-Mindset-CSI-Azure-Cloud-Server-Infrastructure-AzureHardware)   
+  
+  Firmware Development Engineer(BMC)----/BMC(Baseboard management Controller) develop experiences [Job Link](https://careers.microsoft.com/us/en/job/742181/Firmware-Development-Engineer-BMC)
   
   Senior Hardware Engineer-Cloud Server----Server or Sever rack related debug or trouble shooting experiences.[Job link](https://careers.microsoft.com/us/en/job/742553/Senior-Hardware-Engineer-Cloud-Server)  
+
+  Manufacturing Engineer- NPI Engineering----server related experiences[Job Link](https://careers.microsoft.com/us/en/job/736809/Manufacturing-Engineer-NPI-Engineering)  
 
 2. Software engineer  
 
