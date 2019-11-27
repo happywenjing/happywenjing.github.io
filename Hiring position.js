@@ -1,7 +1,7 @@
 export default `
 ![Microsoft](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31)
 # Microsoft Openings
- ***Last update 2019.11.26***
+ ***Last update 2019.11.27***
  
  This is Wenjing Zhang from Microsoft recruiting team, and here is my Github pages.  
  If you are interested in any of these positions, you can contact me via [Linkedin](https://www.linkedin.com/in/wenjing-zhang-154221163/)/Email:a-wezhan@microsoft.com/ Wechat:13182615468
@@ -72,6 +72,8 @@ export default `
   Senior Hardware Engineer-Cloud Server----Server or Sever rack related debug or trouble shooting experiences.[Job link](https://careers.microsoft.com/us/en/job/742553/Senior-Hardware-Engineer-Cloud-Server)  
 
   Manufacturing Engineer- NPI Engineering----server related experiences[Job Link](https://careers.microsoft.com/us/en/job/736809/Manufacturing-Engineer-NPI-Engineering)  
+  
+  Senior Mechanical Engineer----Product:Surface Hub.[Job Link](https://careers.microsoft.com/us/en/job/748792/Senior-Mechanical-Engineer)
 
 2. Software engineer  
 
