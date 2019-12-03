@@ -49,6 +49,8 @@ export default `
   Senior Factory Management Manufacturing Engineer-Mechanical [Job Link] (https://careers.microsoft.com/us/en/job/748910/Senior-Factory-Management-Engineer) 
 
   Senior Factory Management Engineering-Polymer [Job link](https://careers.microsoft.com/us/en/job/739684/Manager-Factory-Management-Engineering)
+
+  Senior Factory Management Engineer_ Optical Engineering----Camera related. [Job Link](https://careers.microsoft.com/us/en/job/681921/Senior-Factory-Management-Engineer-Optical-Engineering)
   
   Senior Operations Program Manager----Manufacturing Test program experiences[Job Link](https://careers.microsoft.com/us/en/job/737552/Sr-Operations-Program-Manager)
 
