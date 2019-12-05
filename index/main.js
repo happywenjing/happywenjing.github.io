@@ -1,4 +1,4 @@
-import text from './Hiring position.js';
+import text from './content.js';
 
 const converter = new showdown.Converter();
 const html      = converter.makeHtml(text);
