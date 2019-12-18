@@ -1,11 +1,43 @@
 export default `
 ![Microsoft](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31)
-# Microsoft Openings-Product Engineer- TPM
+# Microsoft Openings
  ***Last update 2019.12.5***
  
  This is Wenjing Zhang from Microsoft recruiting team, and here is my Github pages.  
  If you are interested in any of these positions, you can contact me via [Linkedin](https://www.linkedin.com/in/wenjing-zhang-154221163/)/Email:a-wezhan@microsoft.com/ Wechat:13182615468
 
+# Microsoft Senior Manufacturing Engineer-Mechanical Part
+## Location: Suzhou
+
+**Job Description**  
+
+In this role, you will be responsible for manufacturing research and develop to solve complex problems that directly impact final product quality, cost and delivery of Surface products. You will define and implement manufacturing process using advance robotic system and computer vision for highly precision assembly placement. You will be a key member of the Technical Operations team and will partner closely with DFX, Mechanical, Quality, Test Engineering and our Manufacturing partners providing early and on-going manufacturing involvement to ensure new products are manufacture-able from concept, to mass production and through end of life.
+
+**Responsibilities**  
+
+•	Partner with DFX team to identify and resolve manufacturing challenges by following best DFx practices and principles.
+•	Develop manufacturing processes at the factory and to drive line, fixture qualifications, line layout optimization and throughput requirement
+•	Work closely with contract manufacturer to develop new or improved assembly fixture and automation system to enhance product quality and production efficiency
+•	Able to create automation system specifications for assembly and give guidance and technical assistance for supplier
+•	Understand calibration and qualification procedures for complex automation system
+•	Leading cost reduction and sustaining activities
+
+**Key Qualification**  
+
+•	8+ years in engineering roles with experience in product design or manufacturing
+•	Experience in the consumer electronic products manufacturing.
+•	Proven track record of cost reduction, project management and engineering design
+•	Excellent oral and written communication skills, be open and willing to travel internationally to our manufacturing facility, accept working re-location in China, TaiWan and South Asia
+
+**Preferred Qualification** 
+
+•	Design for Manufacturability, Failure/Data Analysis, Design of Experiments and statistical analysis using Six Sigma principles
+•	NPI (New Product Introduction) and manufacturing operations experience
+•	Experience in the Automation System Development, high accuracy system will be plus.
+•	Automation Qualification Process, JMP/ MiniTab tool will be a plus.
+
+
+# Product Engineer- TPM-Electrical Part
 ## Location: Suzhou  
 
 **Overview**  
