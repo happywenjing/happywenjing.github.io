@@ -81,9 +81,16 @@ export default `
 
   Senior SW Program manager(clould server). [Job Link](https://careers.microsoft.com/us/en/job/759038/Senior-SW-Program-manager-clould-server)  
 
-  Sr. Hardware System Engineer(Cloud Server). [Job link](https://careers.microsoft.com/us/en/job/759035/Sr-Hardware-System-Engineer-Cloud-Server)
-  
-  
+  Sr. Hardware System Engineer(Cloud Server). [Job link](https://careers.microsoft.com/us/en/job/759035/Sr-Hardware-System-Engineer-Cloud-Server)   
+
+2. Software engineer   
+
+  System engineer-Full stack [Job Link](https://careers.microsoft.com/us/en/job/731505/System-Software-Engineer)  
+
+  Windows Hello Engineer-C++ [Job Link](https://careers.microsoft.com/us/en/job/738111/Software-Engineer-Windows-Hello)  
+
+  Full stack engineer [Job Linke](https://careers.microsoft.com/us/en/job/749900/Full-Stack-Software-Engineer)
+
 
 
 
