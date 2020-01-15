@@ -1,7 +1,7 @@
 export default `
 ![Microsoft](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31)
 # Microsoft Openings
- ***Last update 2020.01.10***
+ ***Last update 2020.01.15***
  
  This is Wenjing Zhang from Microsoft recruiting team, and here is my Github pages.  
  If you are interested in any of these positions, you can contact me via [Linkedin](https://www.linkedin.com/in/wenjing-zhang-154221163/)/Email:a-wezhan@microsoft.com/ Wechat:13182615468
@@ -62,7 +62,9 @@ export default `
  
   Senior Software Development Engineer-RF---- Software/Firmware Radio Frequency (RF) team [Job Link](https://careers.microsoft.com/us/en/job/723072/SDE-2-RF)  
 
-  Senior Software Engineer_Design Verification----Android OR windows related experiences [Job link](https://careers.microsoft.com/us/en/job/712684/Senior-Software-Engineer-Design-Verification)
+  Senior Software Engineer_Design Verification----Android OR windows related experiences [Job link](https://careers.microsoft.com/us/en/job/712684/Senior-Software-Engineer-Design-Verification)  
+
+  MTE-Senior software development engineer---- Android system experiences.[Job Link](https://careers.microsoft.com/us/en/job/759956/MTE-Senior-Software-Development-Engineer-China)
 
 ## Taipei
 1. Hardware engineer
