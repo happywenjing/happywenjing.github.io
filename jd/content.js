@@ -1,69 +1,73 @@
-export default `
-![Microsoft](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31)
-# Microsoft Openings
- ***Last update 2019.12.5***
- 
- This is Wenjing Zhang from Microsoft recruiting team, and here is my Github pages.  
- If you are interested in any of these positions, you can contact me via [Linkedin](https://www.linkedin.com/in/wenjing-zhang-154221163/)/Email:a-wezhan@microsoft.com/ Wechat:13182615468
-
-# Microsoft Senior Manufacturing Engineer-Mechanical Part
-## Location: Suzhou
-
-**Job Description**  
-
-In this role, you will be responsible for manufacturing research and develop to solve complex problems that directly impact final product quality, cost and delivery of Surface products. You will define and implement manufacturing process using advance robotic system and computer vision for highly precision assembly placement. You will be a key member of the Technical Operations team and will partner closely with DFX, Mechanical, Quality, Test Engineering and our Manufacturing partners providing early and on-going manufacturing involvement to ensure new products are manufacture-able from concept, to mass production and through end of life.
-
-**Responsibilities**  
-
-•	Partner with DFX team to identify and resolve manufacturing challenges by following best DFx practices and principles.
-•	Develop manufacturing processes at the factory and to drive line, fixture qualifications, line layout optimization and throughput requirement
-•	Work closely with contract manufacturer to develop new or improved assembly fixture and automation system to enhance product quality and production efficiency
-•	Able to create automation system specifications for assembly and give guidance and technical assistance for supplier
-•	Understand calibration and qualification procedures for complex automation system
-•	Leading cost reduction and sustaining activities
-
-**Key Qualification**  
-
-•	8+ years in engineering roles with experience in product design or manufacturing
-•	Experience in the consumer electronic products manufacturing.
-•	Proven track record of cost reduction, project management and engineering design
-•	Excellent oral and written communication skills, be open and willing to travel internationally to our manufacturing facility, accept working re-location in China, TaiWan and South Asia
-
-**Preferred Qualification** 
-
-•	Design for Manufacturability, Failure/Data Analysis, Design of Experiments and statistical analysis using Six Sigma principles
-•	NPI (New Product Introduction) and manufacturing operations experience
-•	Experience in the Automation System Development, high accuracy system will be plus.
-•	Automation Qualification Process, JMP/ MiniTab tool will be a plus.
-
-
-# Product Engineer- TPM-Electrical Part
+export default `  
+![Microsoft](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31)  
+# Microsoft Openings  
+ ***Last update 2020.2.13***  
+   
+ This is Wenjing Zhang from Microsoft recruiting team, and here is my Github pages.    
+ If you are interested in any of these positions, you can contact me via [Linkedin](https://www.linkedin.com/in/wenjing-zhang-154221163/)/Email:a-wezhan@microsoft.com/ Wechat:13182615468  
+  
+# Senior Coatings Engineer  
 ## Location: Suzhou  
+  
+**Job Description**    
+  
+Provide the COATINGS technical support and innovation required to assure best in class manufacturing operation worldwide. Provides COATINGS technical guidance to worldwide manufacturing in support of continuous COATINGS technology and process improvement. Establish a COATINGS project plan that covers materials, technology development, production design, process implementation, process qualification and process maintenance.    
+  
+The COATINGS engineer position will showcase your proven COATINGS experience across components/subsystems, technology development and implementation, in depth knowledge on modern quality techniques (six sigma, statistical quality control methodologies), strong analytical skill-sets, communication (written and verbal), your focus on the customer, and your ability to manage the relationship with the suppliers.     
+  
+This position’s core focus is managing key COATINGS components/subsystems to include the technology development and implementation, process development and qualification, by effectively collaborating with a variety of peer groups across the organization as well as externally, including, but not limited to, Business Stakeholders, the Tier 2, Tier 1.5, and Tier 1 Supply Base, Development, Supply Chain, Compliance and Quality, to track Tier 2 quality metrics and drive improvements to components/subsystems suppliers.   The position requires a high degree of technical knowledge of COATINGS technology and COATINGS manufacturing processes control and quality.    
+  
+  
+**Responsibilities**    
+  
+•	Understand the current COATINGS requirement from internal meetings and discussions    
+•	Understand design changes and provide COATINGS build support at multiple factory sites    
+•	Understand what COATINGS technologies meet the ID COATINGS intent for the program    
+•	Communicate to manufacturing team on COATINGS process related failures    
+•	Support to identify COATINGS deficiencies and work with corresponding groups to improve  
+•	Provide feedback to factory on COATINGS failure diagnostic    
+•   Conduct targeted COATINGS experiments at factory and the Tier 2 for performance and quality improvement    
+•   Ensure proper COATINGS processes and documentations at manufacturing   
+•   Drives COATINGS implementation of best practices   
+•   Drives continuous COATINGS process improvement initiatives  
+•   Approve and assists with implementation of COATINGS procedures, qualifications, process changes and/or ECNs  
+•   Provides COATINGS support during Pre-ASR, EV, DV, PV of new product development cycles    
+  
+**Other various technical responsibilities:**    
+  
+•  Frequent Travel to factory sites is required – Throughout Asia (China, Taiwan, Korea, Japan, etc) and possibly Europe and USA, as required.    
+•  Correlate and standardize test and inspection process among T1, T2 and sub tier supplier    
+•  Participate in design review and give recommendation to development team    
+  
+**Qualification**     
+  
+•  B.S. Mechanical Engineering or related technical COATINGS degree.     
+•  Over 15 years hands-on COATINGS application and technology development experience to include spray liquid, powder, low VOC including waterborne, Electro Deposition, and dip/Spin type coatings.       
+•  Hands on Experience in COATINGS Tooling Design and Optimization to include fixture design and optimization.    
+•  Strong COATINGS Product engineering capability and Tooling and Process experience.    
+•  Hands on COATINGS Engineering supervision and/or team leadership experience.    
+•  Minimum of 5 years of demonstrated COATINGS process development work experience in manufacturing environments, including high volume manufacturing and specialized one-off proof of concepts.    
+•  Ability to define COATINGS problems, analyzed data, established facts and draw valid conclusions.     
+•  Ability to interpret an extensive variety of technical data and deal with several abstract and concrete variables.    
+•  Makes decision intelligently without having Data overdrive.    
+•  Demonstrated ability to manage large projects/programs.     
+•  Demonstrated ability to manage large, complex, and highly visible projects    
+•  Strong demonstrated ability to write, speak and present information effectively and persuasively across communication settings.     
+•  Demonstrated experience in re-engineering efforts and statistical analysis such as Six Sigma.    
+•  Demonstrated experience in quality reporting and data acquisition.    
+•  Self-sufficient PC skills: Excel, Word, Power Point, Visio, Outlook, etc.    
+  
+  
 
-**Overview**  
-
-This position understands the engineering design of Microsoft products and ensures that the products are shipped in highest quality during mass production. Successful candidate may lead a group of Engineers to drive yield improvement and quality improvement by understanding and resolving product failures and early returns.  In addition, this role requires detail management of business metrics within a product cycle specifically during mass production. This position will heavily interact with the contract manufacturers, and must be skilled in a wide range of activities from designing and root cause analysis to the manufacturing engineering and managing experiments with outsourced contract manufacturers located in China.
-
-**Responsibilities**  
-
-In order to be successful in this position, this individual must effectively collaborate with both the contract manufacturer and a variety of peer groups across the organization, including, but not limited to, Factory Management, Supplier Quality Engineering, Manufacturing Test Engineering, Quality, and Hardware Development.
-
-**Description:**  
-
-• Ensure no quality excursion in mass production of products  
-• Understand product designs and provide engineering support and leadership at engineering builds  
-• Lead a group of engineers to track production product problems and timely conduct fault isolation and failure analysis  
-• Being the engineering hub during mass production and proactively work with cross-groups to drive continuous improvement  
-• Provide professional recommendation to Quality for potential product quality issues.   
-
-**MACH CHINA**
-
-
-
-Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances. 
-
-
-
-Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.
-
-`;
+**MACH CHINA**  
+  
+  
+  
+Microsoft is an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations and ordinances.   
+  
+  
+  
+Benefits/perks listed below may vary depending on the nature of your employment with Microsoft and the country where you work.  
+  
+`;  
+  
