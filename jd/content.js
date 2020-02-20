@@ -16,7 +16,16 @@ export default `
 
   Senior Software Engineer_Design Verification----Android OR windows related experiences [Job link](https://careers.microsoft.com/us/en/job/712684/Senior-Software-Engineer-Design-Verification)  
 
-  MTE-Senior software development engineer---- Android system experiences.[Job Link](https://careers.microsoft.com/us/en/job/759956/MTE-Senior-Software-Development-Engineer-China) 
+  MTE-Senior software development engineer---- Android system experiences.[Job Link](https://careers.microsoft.com/us/en/job/759956/MTE-Senior-Software-Development-Engineer-China)   
+
+
+#  PM
+   Senior PM-----SW/FW related [Job Link](https://careers.microsoft.com/us/en/job/788034/Senior-Program-Manager)  
+
+
+#  Hardware Engineer
+   MTE-hardware engineer [Job Link](https://careers.microsoft.com/us/en/job/775945/Sr-Hardware-Engineer)  
+   
 
 # Senior Coatings Engineer  
 ## Location: Suzhou  
