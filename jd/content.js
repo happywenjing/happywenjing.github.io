@@ -7,6 +7,7 @@ export default `
  If you are interested in any of these positions, you can contact me via [Linkedin](https://www.linkedin.com/in/wenjing-zhang-154221163/)/Email:a-wezhan@microsoft.com/ Wechat:13182615468  
 
 #   Senior SW/FW engineer  
+## Location: Suzhou  
 
   Senior Software Development Engineer----develop Automation platform   [Job link](https://careers.microsoft.com/us/en/job/733317/Senior-Software-Development-Engineer)
 
@@ -19,13 +20,15 @@ export default `
   MTE-Senior software development engineer---- Android system experiences.[Job Link](https://careers.microsoft.com/us/en/job/759956/MTE-Senior-Software-Development-Engineer-China)   
 
 
-#  PM
+#  PM  
+## Location: Suzhou   
    Senior PM-----SW/FW related [Job Link](https://careers.microsoft.com/us/en/job/788034/Senior-Program-Manager)  
 
 
-#  Hardware Engineer
+#  Hardware Engineer  
+## Location: Suzhou 
    MTE-hardware engineer [Job Link](https://careers.microsoft.com/us/en/job/775945/Sr-Hardware-Engineer)  
-   
+
 
 # Senior Coatings Engineer  
 ## Location: Suzhou  
