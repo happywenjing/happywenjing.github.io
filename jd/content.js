@@ -29,6 +29,9 @@ export default `
 ## Location: Suzhou 
    MTE-hardware engineer [Job Link](https://careers.microsoft.com/us/en/job/775945/Sr-Hardware-Engineer)  
 
+## Location: Shenzhen  
+   Electronical Engineer [Job Link](https://careers.microsoft.com/us/en/job/702432/Electronical-Engineer-Azure-Edge-Devices)
+
 
 # Senior Coatings Engineer  
 ## Location: Suzhou  
