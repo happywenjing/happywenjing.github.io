@@ -28,8 +28,12 @@ export default `
 #  Manufacturing Engineering
 ## Location: Suzhou  
    Senior Factory Manager ----Finally assembly Tier 1 factory [Job link](https://careers.microsoft.com/us/en/job/799736/Senior-Factory-Manager)  
+     
    Senior factory management engineer----Mechanical parts[Job link](https://careers.microsoft.com/us/en/job/792213/Senior-Factory-Management-Engineer)  
-   Principal Factory Management Engineer----Mechanical Enclosures/Component related processes [Job Link](https://careers.microsoft.com/us/en/job/777557/Principal-Factory-Management-Engineer)
+
+   Principal Factory Management Engineer----Mechanical Enclosures/Component related processes [Job Link](https://careers.microsoft.com/us/en/job/777557/Principal-Factory-Management-Engineer)  
+
+   
 
 
 #  Hardware Engineer  
