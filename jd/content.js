@@ -1,7 +1,7 @@
 export default `  
 ![Microsoft](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31)  
 # Microsoft Openings  
- ***Last update 2020.2.13***  
+ ***Last update 2020.3.11***  
    
  This is Wenjing Zhang from Microsoft recruiting team, and here is my Github pages.    
  If you are interested in any of these positions, you can contact me via [Linkedin](https://www.linkedin.com/in/wenjing-zhang-154221163/)/Email:a-wezhan@microsoft.com/ Wechat:13182615468  
@@ -23,6 +23,13 @@ export default `
 #  PM  
 ## Location: Suzhou   
    Senior PM-----SW/FW related [Job Link](https://careers.microsoft.com/us/en/job/788034/Senior-Program-Manager)  
+
+
+#  Manufacturing Engineering
+## Location: Suzhou  
+    Senior Factory Manager ----Finally assembly Tier 1 factory [Job link](https://careers.microsoft.com/us/en/job/799736/Senior-Factory-Manager)
+    Senior factory management engineer----Mechanical parts[Job link](https://careers.microsoft.com/us/en/job/792213/Senior-Factory-Management-Engineer)
+    Principal Factory Management Engineer----Mechanical Enclosures/Component related processes [Job Link](https://careers.microsoft.com/us/en/job/777557/Principal-Factory-Management-Engineer)
 
 
 #  Hardware Engineer  
