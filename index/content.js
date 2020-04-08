@@ -1,7 +1,7 @@
 export default `
 ![Microsoft](https://img-prod-cms-rt-microsoft-com.akamaized.net/cms/api/am/imageFileData/RE1Mu3b?ver=5c31)
 # Microsoft Openings
- ***Last update 2020.01.15***
+ ***Last update 2020.04.08***
  
  This is Wenjing Zhang from Microsoft recruiting team, and here is my Github pages.  
  If you are interested in any of these positions, you can contact me via [Linkedin](https://www.linkedin.com/in/wenjing-zhang-154221163/)/Email:a-wezhan@microsoft.com/ Wechat:13182615468
